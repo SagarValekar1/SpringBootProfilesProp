@@ -18,7 +18,7 @@ public void run(String... args) throws Exception {
 
 @Override
 public String toString() {
-	return "AppRunner [code=" + code + ", mode=" + mode + "]";
+	return "AppRunnerABC [code=" + code + ", mode=" + mode + "]";
 }
 
 }
